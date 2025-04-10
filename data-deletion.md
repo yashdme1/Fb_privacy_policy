@@ -1,28 +1,59 @@
-Data Deletion Instructions
-Data Deletion Policy
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>User Data Deletion Instructions</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body class="bg-light text-dark py-5">
+  <div class="container">
+    <div class="card shadow-sm">
+      <div class="card-body">
+        <h1 class="card-title text-primary mb-4">User Data Deletion Instructions</h1>
+        <p>
+          If you wish to request deletion of your data collected through our Facebook Messenger chatbot, please email us at:
+        </p>
+        <p class="bg-secondary text-white p-2 rounded w-auto"><strong>onlinesales@consistent.in</strong></p>
 
-We respect your privacy. Our chatbot does not store personal user data. If you wish to ensure any interaction is removed or no longer active, you can request this via email.
+        <p>In your email, please include the following details:</p>
+        <ul>
+          <li>Your full name or Facebook username</li>
+          <li>Approximate date of your interaction</li>
+          <li>A clear statement requesting data deletion</li>
+        </ul>
 
-To request data deletion, please email us at:
+        <p>
+          Once we receive your request, we will process your data deletion within 48 hours. We do not store any personal data beyond what is necessary to provide chatbot functionality.
+        </p>
 
-onlinesales@consistent.in
-Subject: Data Deletion Request
-Body: Please include your Facebook User ID or screenshot of the conversation for reference.
+        <hr />
 
-We will confirm and take action within 48 hours.
+        <div class="bg-white p-3 border rounded">
+          <p class="mb-1"><strong>To:</strong> support@consistentinfosystems.com</p>
+          <p class="mb-1"><strong>Subject:</strong> Data Deletion Request</p>
 
------------------------------------------------------------------------------------------
-To: onlinesales@consistent.in
-Subject: Data Deletion Request from Facebook
+          <p>Hello,</p>
+          <p>I would like to request the deletion of my data shared during my interaction with your Facebook Messenger chatbot.</p>
 
-Hello,
+          <p>Here are the details:</p>
+          <ul>
+            <li>My Facebook Name:</li>
+            <li>Date of Interaction:</li>
+            <li>Screenshot (optional but helpful):</li>
+          </ul>
 
-I would like to request the deletion of my data shared during my interaction with your Facebook Messenger chatbot.
+          <p>Thank you,</p>
+          <p>[Your Name]</p>
+        </div>
 
-Here are the details:
-- My Facebook Name:
-- Date of Interaction:
-- Screenshot (optional but helpful):
+        <p class="mt-4">
+          Thank you for using our services.
+        </p>
+      </div>
+    </div>
+  </div>
 
-Thank you,
-[Your Name]
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
